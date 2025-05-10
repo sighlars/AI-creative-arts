@@ -15,7 +15,7 @@ export default function Home() {
         <div className="mb-10 text-center">
           <h2 className="text-3xl font-bold tracking-tight md:text-4xl">Explore AI in Creative Fields</h2>
           <p className="mt-4 text-lg text-muted-foreground">
-            Discover how artificial intelligence is revolutionizing creative expression
+            Discover how artificial intelligence is revolutionizing creative expressions
           </p>
         </div>
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
